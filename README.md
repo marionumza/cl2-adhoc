@@ -46,6 +46,10 @@ To use this docker compose file need:
 * Check .env for choosing odoo version and other useful configurations
 * Remove everything (containers and data) "docker-compose down -v"
 
+## Puertos
+ * Odoo: 9089
+ * longpooling: 6072
+
 ## Links
 
 * `TODO: Using for production  <docs/developers_guide.rst/>`_
